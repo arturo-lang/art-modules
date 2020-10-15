@@ -1,8 +1,8 @@
 ; Official Module List
 ; for the Arturo Programming Language
 ;
-; All modules have to have a main key (their)
-;;
-;;
+; All modules have to have a main key (their name)
+; and a value (source github repo url)
+
 
 html: "https://github.com/arturo-lang/art-html-module"
