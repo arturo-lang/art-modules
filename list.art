@@ -4,9 +4,5 @@
 ; All modules have to have a main key (their)
 ;;
 ;;
-#[
-	html: #[
-		description: "HTML generator for Arturo"
-		author: "Yanis Zafirópulos"
-	]
-]
+
+html: "https://github.com/arturo-lang/art-html-module"
