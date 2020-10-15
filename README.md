@@ -16,7 +16,7 @@ First of all make sure it has the correct structure:
 
 > 💡  If you want to see an example, check out one of the official shared modules, e.g. [the HTML generator module](https://github.com/arturo-lang/art-html-module)
 
-How do I added to the official Modules list?
+How do I add it here?
 ----
 
 Once you have correctly set up your module, all you have to do is:
