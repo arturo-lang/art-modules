@@ -1,0 +1,12 @@
+; Official Module List
+; for the Arturo Programming Language
+;
+; All modules have to have a main key (their)
+;;
+;;
+#[
+	html: #[
+		description: "HTML generator for Arturo"
+		author: "Yanis Zafirópulos"
+	]
+]
