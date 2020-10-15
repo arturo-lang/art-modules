@@ -1,4 +1,4 @@
-# Arturo Modules<br>The main package manager for Arturo
+# The main package manager for Arturo
 
 Here you are going to find a list of all the officially and unofficially available modules, that can be directly installed via arturo.
 
