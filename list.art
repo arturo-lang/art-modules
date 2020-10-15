@@ -5,4 +5,7 @@
 ;;
 ;;
 
-html: "https://github.com/arturo-lang/art-html-module"
+#[ 
+	name: 'html,
+	source: "https://github.com/arturo-lang/art-html-module"
+]
