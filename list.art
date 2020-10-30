@@ -5,4 +5,5 @@
 ; and a value (source github repo url)
 
 
-html: "https://github.com/arturo-lang/art-html-module"
+db: 	"https://github.com/arturo-lang/art-db-module"
+html: 	"https://github.com/arturo-lang/art-html-module"
