@@ -4,6 +4,7 @@
 ; All modules have to have a main key (their name)
 ; and a value (source github repo url)
 
+artsembly:  "https://github.com/arturo-lang/artsembly-module"
 bootstrap:	"https://github.com/arturo-lang/art-bootstrap-module"
 db: 		"https://github.com/arturo-lang/art-db-module"
 html: 		"https://github.com/arturo-lang/art-html-module"
